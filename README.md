@@ -1,10 +1,20 @@
 # Lehrplan
 
-- was ist HTML
-Analogie: Wie ein Word-Dokument?
-- was ist CSS
-- git
-- php?
+## Grundlagen
+
+- HTML Grundlagen
+  - Elemente
+- CSS Grundlagen
+  - Framework: Materialize
+- Git/Github Grundlagen
+- Deploy Grundlagen
+
+## Eigenständige Projekte
+
+- Allein oder im Pairing
+- Ziel definieren: z.B. Schulseite nachbauen, eigene Homepage, Bilder-Blog, ...
+- Dokumentation zur Verfügung stellen
+- Jederzeit ansprechbar
 
 # Dokumentation
 
@@ -14,17 +24,13 @@ https://wiki.selfhtml.org/wiki/HTML/
 
 # Software
 
-https://www.mamp.info/de/downloads/
+Atom Editor: https://atom.io/
 
 # Configuration
 
-- git branch for every developer
+- Für jede Teilnehmerin einen eigenen Branch erstellen
 
 ## Atom config
 
 - install shell commands
 - packages: ide-html, pp-markdown, code-completion, git-gui, git-plus, intentions, color-picker
-
-# Live
-
-- https://pages.github.com/
