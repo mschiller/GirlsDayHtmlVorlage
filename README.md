@@ -79,9 +79,14 @@ Educate yourself
 
 ### Dokumentation
 
-https://materializecss.com/
 https://www.html-seminar.de/befehlsuebersicht.htm
 https://wiki.selfhtml.org/wiki/HTML/Tutorials/Einstieg
+https://www.w3schools.com/Css/default.asp
+https://materializecss.com/
+
+Tutorials:
+http://page.mi.fu-berlin.de/mbudde/css_kurs/css_einf.html
+http://de.html.net/tutorials/css/
 
 #### Git: Verteilte Kontrolle
 
@@ -94,7 +99,7 @@ https://rogerdudler.github.io/git-guide/index.de.html
 - Erklären an Tafel + Zeigen auf Bildschirm und gleichzeitigem Imitieren
 
 - index.html öffnen und erläutern
-- Struktur, Tags, Styles, ...
+- Struktur, Tags, Styles, ... Analogie Bild an der Wand
 - Navigation anpassen
 - Livestellen: Git commit, push
 - Smartphone test
@@ -112,3 +117,4 @@ Ab 2. Stunde freies kreatives Arbeiten
 ### Tipps
 
 - Immer speichern
+- Oft committen
