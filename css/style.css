@@ -2,6 +2,12 @@ nav ul a, nav .brand-logo {
   color: #444;
 }
 
+.mdi-navigation-menu {
+    position: fixed;
+    top: 3px;
+    left: 10px;
+}
+
 p {
   line-height: 2rem;
 }
