@@ -49,28 +49,65 @@ Educate yourself
 - Welches Produkt möchtest du bauen?
 - Plan erstellen
 
-## Installation Party
+## Vorbereitende Installation
+
+- Rechner anschließen, WLAN, Strom, Maus sicherstellen
+
+### Software
+
+- Git, https://git-scm.com/downloads
+- Atom Editor, https://atom.io/
+
+### Configuration
+
+- Git Gui
+`git clone https://github.com/mschiller/OFIGOGirlsDay2019.git` => Auf Desktop
+
+- Atom Editor
+  - install shell commands
+  - packages: ide-html, pp-markdown, code-completion, git-gui, git-plus, intentions, color-picker
+
+- Für jede Teilnehmerin einen eigenen Branch erstellen (girls_day_2019_1 - x)
+- `git push -u origin <branchname>` bzw mit Git GUI
+- Netify Deployments einrichten
+
+## Durchführung
+
+### Entwicklungsumgebung vorstellen
+
+- Atom: => Wie Microsoft Word für Entwicklung
 
 ### Dokumentation
 
 https://materializecss.com/
 https://www.html-seminar.de/befehlsuebersicht.htm
-https://wiki.selfhtml.org/wiki/HTML/
+https://wiki.selfhtml.org/wiki/HTML/Tutorials/Einstieg
 
-### Software
+#### Git: Verteilte Kontrolle
 
-Atom Editor: https://atom.io/
+https://rogerdudler.github.io/git-guide/index.de.html
 
-### Configuration
+### Start
 
-- Für jede Teilnehmerin einen eigenen Branch erstellen
+1. Stunde, gemeinsame Schritte und Grundverständnis
 
-### Atom config
+- Erklären an Tafel + Zeigen auf Bildschirm und gleichzeitigem Imitieren
 
-- install shell commands
-- packages: ide-html, pp-markdown, code-completion, git-gui, git-plus, intentions, color-picker
+- index.html öffnen und erläutern
+- Struktur, Tags, Styles, ...
+- Navigation anpassen
+- Livestellen: Git commit, push
+- Smartphone test
+- Responsive
+- Chrome/Firefox => Entwicklertools anschauen
+- Mobile Menu
+- 2. Mal Push
 
-## Durchführung
+- Hilfeseiten HTML/CSS/Materialize anschauen
+
+PAUSE
+
+Ab 2. Stunde freies kreatives Arbeiten
 
 ### Tipps
 
