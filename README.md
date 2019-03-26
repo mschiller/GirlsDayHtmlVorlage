@@ -60,14 +60,11 @@
 
 ### Configuration
 
-- Git Gui
-`git clone https://github.com/mschiller/OFIGOGirlsDay2019.git` => Auf Desktop
+- Git Gui: Clone `https://github.com/mschiller/OFIGOGirlsDay2019.git` => Auf Desktop
 
-- Atom Editor
-  - install shell commands
-  - packages: ide-html, pp-markdown, code-completion, git-gui, git-plus, intentions, color-picker
+- VS Code Extensions installieren: Prettier - Code formatter, Bracket Pair Colorizer, GitLens
 
-- Für jede Teilnehmerin einen eigenen Branch erstellen (girls_day_2019_1 - x)
+- Für jede Teilnehmerin einen eigenen Branch erstellen (tn1 - tnx)
 - `git push -u origin <branchname>` bzw mit Git GUI
 - Netify Deployments einrichten
 
