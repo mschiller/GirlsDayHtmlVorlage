@@ -56,7 +56,7 @@
 ### Software
 
 - Git, https://git-scm.com/downloads
-- Atom Editor, https://atom.io/
+- VC Code, https://code.visualstudio.com/Download
 
 ### Configuration
 
