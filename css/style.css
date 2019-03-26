@@ -8,6 +8,14 @@ nav ul a, nav .brand-logo {
     left: 10px;
 }
 
+.logo {
+  width: 55%;
+}
+
+.logo_container {
+  text-align: center;
+}
+
 p {
   line-height: 2rem;
 }
