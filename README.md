@@ -37,17 +37,10 @@
 
 ## CheckIn
 
-- Eigenständige Projekte?
-- Allein oder im Pairing?
-- Ziel definieren: z.B. Schulseite nachbauen (Prank), eigene Homepage, Bilder-Blog, ...
+- Jeder bekommt einen Rechner
 - Dokumentation zur Verfügung stellen
 - Jederzeit ansprechbar
-
-## Zieldefinition
-
-- Was möchtest du heute erreichen?
-- Welches Produkt möchtest du bauen?
-- Plan erstellen
+- Uhr stellen: 1 Stunde
 
 ## Vorbereitende Installation
 
@@ -62,7 +55,7 @@
 
 - Git Gui: Clone `https://github.com/mschiller/OFIGOGirlsDay2019.git` => Auf Desktop
 
-- VS Code Extensions installieren: Prettier - Code formatter, Bracket Pair Colorizer, GitLens
+- VS Code Extensions installieren: Prettier - Code formatter, Bracket Pair Colorizer, GitLens, VS Color Picker
 
 - Für jede Teilnehmerin einen eigenen Branch erstellen (tn1 - tnx)
 - `git push -u origin <branchname>` bzw mit Git GUI
@@ -104,12 +97,16 @@ https://rogerdudler.github.io/git-guide/index.de.html
 - Chrome/Firefox => Entwicklertools anschauen
 - Mobile Menu
 - 2. Mal Push
-
+- Strukur der Seite
+- CSS
 - Hilfeseiten HTML/CSS/Materialize anschauen
+
+- Ziel definieren: z.B. Schulseite nachbauen (Prank), eigene Homepage, Bilder-Blog, ...
+- Eigenständige Projekte? Allein oder im Pairing?
 
 PAUSE
 
-Ab 2. Stunde freies kreatives Arbeiten
+Ab 2. Stunde freies, kreatives, begleitetes Arbeiten an den Projekten
 
 ### Tipps
 
