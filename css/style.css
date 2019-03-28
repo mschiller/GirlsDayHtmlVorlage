@@ -1,10 +1,10 @@
 nav {
-  color: grey;
-  background-color: #bde7cb;
+  color: rgb(128, 128, 128);
+  background-color: #e7bdda;
 }
 
 nav ul a, nav .brand-logo {
-  color: #444;
+  color: rgb(68, 68, 68);
 }
 
 p {
@@ -12,7 +12,7 @@ p {
 }
 
 .button-collapse {
-  color: #ee6e73;
+  color: #706eeedc;
 }
 
 .parallax-container {
