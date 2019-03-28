@@ -4,7 +4,12 @@ nav {
 }
 
 nav ul a, nav .brand-logo {
-  color: rgb(68, 68, 68);
+  color: rgb(68, 68, 68); 
+  font-size: 1.5rem;
+}
+
+iframe {
+  width: 100%;
 }
 
 p {
